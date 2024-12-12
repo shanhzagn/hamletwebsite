@@ -15,7 +15,7 @@
   <p></p>
   <p>Act 3: Hamlet carefully watches Claudius's reaction to the play. The play distresses the king, making him leave. Having proof, Hamlet returns to his mother to scold her. He comes upon Claudius praying, which challenges Hamlet's morality for revenge. Meanwhile, Polonius hides in Gertrudes room to protect her from the 'unpredictable' Hamlet. When Hamlet arrives, he hears noises coming from the tapestry. Hamlet stabs and accidently kills Polonius.</p>
   <p></p>
-  <p>Hamlet carefully watches Claudius's reaction to the play. The play distresses the king, making him leave. Having proof, Hamlet returns to his mother to scold her. He comes upon Claudius praying, which challenges Hamlet's morality for revenge. Meanwhile, Polonius hides in Gertrudes room to protect her from the 'unpredictable' Hamlet. When Hamlet arrives, he hears noises coming from the tapestry. Hamlet stabs and accidently kills Polonius.</p>
+  <p>Act 4:Hamlet carefully watches Claudius's reaction to the play. The play distresses the king, making him leave. Having proof, Hamlet returns to his mother to scold her. He comes upon Claudius praying, which challenges Hamlet's morality for revenge. Meanwhile, Polonius hides in Gertrudes room to protect her from the 'unpredictable' Hamlet. When Hamlet arrives, he hears noises coming from the tapestry. Hamlet stabs and accidently kills Polonius.</p>
   <iframe src="https://scratch.mit.edu/projects/1105092703/embed" allowtransparency="true" width="970" height="804" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </body>
 </html>
