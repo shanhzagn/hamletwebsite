@@ -16,6 +16,7 @@
   <p>To fill in a cell, please either click on it or use arrow keys to select it. Please also wait for the next cell to be highlighted before pressing the next key. When you're ready, you can check your answers, and eventually submit to reveal the answers and discover whether you were correct!</p>
   <p>This game was coded entirely from scratch in Scratch!</p>
   <p>Enjoy!</p>
+  <p>Note: If there are question marks in grey boxes, please reload the page.</p>
   <iframe src="https://scratch.mit.edu/projects/1105092703/embed" allowtransparency="true" width="970" height="804" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </body>
 </html>
