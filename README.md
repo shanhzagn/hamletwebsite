@@ -16,6 +16,14 @@
   <p>Act 3: Hamlet carefully watches Claudius's reaction to the play. The play distresses the king, making him leave. Having proof, Hamlet returns to his mother to scold her. He comes upon Claudius praying, which challenges Hamlet's morality for revenge. Meanwhile, Polonius hides in Gertrudes room to protect her from the 'unpredictable' Hamlet. When Hamlet arrives, he hears noises coming from the tapestry. Hamlet stabs and accidently kills Polonius.</p>
   <p></p>
   <p>Act 4:Hamlet carefully watches Claudius's reaction to the play. The play distresses the king, making him leave. Having proof, Hamlet returns to his mother to scold her. He comes upon Claudius praying, which challenges Hamlet's morality for revenge. Meanwhile, Polonius hides in Gertrudes room to protect her from the 'unpredictable' Hamlet. When Hamlet arrives, he hears noises coming from the tapestry. Hamlet stabs and accidently kills Polonius.</p>
+  <p></p>
+  <h3>Test your knowledge of the characters in Hamlet with this crossword game!</h3>
+  <p>This game is a crossword, featuring 10 characters from Hamlet.</p>
+  <p>To fill in a cell, please either click on it or use arrow keys to select it. Please also wait for the next cell to be highlighted before pressing the next key. When you're ready, you can check your answers, and eventually submit to reveal the answers and discover whether you were correct!</p>
+  <p></p>
+  <p>This game was coded entirely from scratch in Scratch!</p>
+  <p></p>
+  <p>Enjoy!</p>
   <iframe src="https://scratch.mit.edu/projects/1105092703/embed" allowtransparency="true" width="970" height="804" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </body>
 </html>
